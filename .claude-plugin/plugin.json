@@ -22,5 +22,8 @@
     "healthcare",
     "mcp"
   ],
-  "repository": "https://github.com/hidden-tokens/plugin"
+  "repository": "https://github.com/hidden-tokens/plugin",
+  "documentationUrl": "https://hiddentokens.com/skills/",
+  "privacyPolicyUrl": "https://hiddentokens.com/privacy/",
+  "termsOfServiceUrl": "https://hiddentokens.com/fr/conditions/"
 }
