@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 /* ============================================================================
    Hidden Tokens for Claude Code — the MCP server launcher of the plugin.
+   (In server/, not bin/: claude.ai and Cowork refuse a plugin with a
+   top-level bin/ directory.)
 
    The plugin ships the skills and the guard hook; the engine itself is the
    Hidden Tokens connector, which lives either inside the desktop app (the

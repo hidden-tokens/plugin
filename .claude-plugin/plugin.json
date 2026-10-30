@@ -1,0 +1,26 @@
+{
+  "name": "hidden-tokens",
+  "displayName": "Hidden Tokens",
+  "version": "2.50.0",
+  "description": "Work on confidential files with Claude without Claude ever seeing a real name: Hidden Tokens pseudonymises the working folder on the computer, a hook blocks raw reads, and the skills teach the protocol and the professions' recipes (legal, accounting, HR and payroll, telecom, banking and insurance, healthcare).",
+  "author": {
+    "name": "Hidden Tokens",
+    "url": "https://hiddentokens.com"
+  },
+  "homepage": "https://hiddentokens.com",
+  "license": "FSL-1.1-ALv2",
+  "keywords": [
+    "privacy",
+    "pseudonymisation",
+    "anonymisation",
+    "confidentiality",
+    "gdpr",
+    "professional-secrecy",
+    "lawyers",
+    "accountants",
+    "hr",
+    "healthcare",
+    "mcp"
+  ],
+  "repository": "https://github.com/hidden-tokens/plugin"
+}

@@ -33,6 +33,7 @@ Look for the Hidden Tokens tools. They exist under English names or, on a French
 | `coverage_report` / `ledger` | `rapport_couverture` / `grand_livre` | team coverage page; signed monthly register for the DPO or auditor |
 | `check_confinement` | `verifier_confinement` | who else can see the folder |
 | `reset_key` | `reinitialiser_cle` | archive the key and start over (destructive, confirm first) |
+| `list_secrets` / `write_secret_file` / `run_with_secrets` | `lister_secrets` / `ecrire_fichier_secret` / `executer_avec_secrets` | secrets by reference: list SECRET-… codes (never values); write a git-ignored .env or config file with the real values on disk; run a program with secrets injected after the user's approval in a system window (never click it yourself) |
 
 The connector also injects its own protocol as server instructions. When both are present, the connector's instructions win.
 

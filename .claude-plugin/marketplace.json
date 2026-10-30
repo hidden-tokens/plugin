@@ -1,20 +1,32 @@
 {
   "name": "hidden-tokens",
-  "owner": { "name": "Hidden Tokens", "url": "https://hiddentokens.com" },
+  "owner": {
+    "name": "Hidden Tokens",
+    "url": "https://hiddentokens.com"
+  },
   "metadata": {
     "description": "Hidden Tokens: work on confidential files with Claude without Claude ever seeing a real name. Connector, guard hook and profession skills.",
-    "version": "2.47.0"
+    "version": "2.50.0"
   },
   "plugins": [
     {
       "name": "hidden-tokens",
-      "source": "./plugin",
+      "source": "./",
       "description": "Pseudonymises the working folder on the computer before Claude reads it, blocks raw reads with a hook, and teaches the protocol and six professions' recipes (legal, accounting, HR and payroll, telecom, banking and insurance, healthcare).",
-      "version": "2.47.0",
-      "author": { "name": "Hidden Tokens", "url": "https://hiddentokens.com" },
+      "version": "2.50.0",
+      "author": {
+        "name": "Hidden Tokens",
+        "url": "https://hiddentokens.com"
+      },
       "homepage": "https://hiddentokens.com",
       "category": "security",
-      "keywords": ["privacy", "pseudonymisation", "confidentiality", "gdpr", "mcp"]
+      "keywords": [
+        "privacy",
+        "pseudonymisation",
+        "confidentiality",
+        "gdpr",
+        "mcp"
+      ]
     }
   ]
 }
